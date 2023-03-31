@@ -1,7 +1,7 @@
 # Agenda_Ruby
 Contacts agenda made with pure ruby code
 
-##Functions
+## Functions
 1. List all contacts
 2. Add contact
 3. View contact
